@@ -1,59 +1,92 @@
 <div align="center">
   <img src="./Banner Readme.jpg" alt="Banner ou Logo" width="1000"/>
-  <h1>Olá, eu sou [Seu Nome]! 👋</h1>
-  <h3>[Sua Profissão ou Frase de Efeito | Ex: Desenvolvedor Full-Stack | Entusiasta de IA]</h3>
+  <h1>Olá, eu sou Lucas Borinelli Mees! 👋</h1>
+  <h3>Desenvolvedor Full-Stack </h3>
 </div>
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-- 🔭 Atualmente estou trabalhando em **[Nome do seu projeto atual ou empresa]**.
-- 🌱 Estou aprendendo **[Tecnologia que você está estudando]**.
-- 🤔 Procuro ajuda com **[Área em que você gostaria de colaborar ou aprender mais]**.
-- 💬 Me pergunte sobre **[Assuntos que você domina, ex: JavaScript, React, Python]**.
-- 📫 Como me encontrar: **[seu-email@exemplo.com]**
-- 😄 Pronomes: **Ele/Dele**, **Ela/Dela**, etc.
-- ⚡ Curiosidade: **[Um fato divertido ou interessante sobre você]**.
+- 🔭 Atualmente estou procurando trabalho.
+- 🌱 Estou aprendendo **Java Spring Boot**.
+- 📫 Como me encontrar: **lucasbmees8@gmail.com**
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-
-Aqui você pode listar as tecnologias que conhece. Usar ícones deixa o perfil mais visual!
+### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens de Programação:**
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> 
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <a href="https://www.php.net" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
+  </a> 
+</p>
+
+**Frameworks e Bibliotecas:**
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/> 
+  </a> 
+  <a href="https://flutter.dev" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> 
   </a>
 </p>
 
-**Frameworks e Bibliotecas (Frontend):**
+**Cloud & DevOps:**
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <a href="https://aws.amazon.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
   </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
   </a>
 </p>
 
-**Backend e Banco de Dados:**
+**Ferramentas e Versionamento:**
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+  </a> 
+  <a href="https://github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+
+
 
 ---
 

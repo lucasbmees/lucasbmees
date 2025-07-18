@@ -87,15 +87,12 @@
 </p>
 
 
-
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
 
-Use ferramentas como o [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) para gerar estes cartões. Basta substituir `SEU-USUARIO-DO-GITHUB` pelo seu nome de usuário.
-
 <div align="center">
-  <a href="https://github.com/SEU-USUARIO-DO-GITHUB">
+  <a href="https://github.com/lucasbmees">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
   </a>

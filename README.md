@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Banner Readme.jpg" alt="Banner ou Logo" width="600"/>
+  <img src="./Banner Readme.jpg" alt="Banner ou Logo" width="1000"/>
   <h1>Olá, eu sou [Seu Nome]! 👋</h1>
   <h3>[Sua Profissão ou Frase de Efeito | Ex: Desenvolvedor Full-Stack | Entusiasta de IA]</h3>
 </div>
